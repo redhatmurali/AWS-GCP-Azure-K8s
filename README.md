@@ -1,1 +1,2 @@
-# AWS-GCP-Azure-K8s
+# Wasting time on videos ? Quick to Recap :)
+

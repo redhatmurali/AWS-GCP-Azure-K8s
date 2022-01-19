@@ -25,6 +25,3 @@ An access key is composed of two parts: an access key ID and a secret access key
 **Console password**
 
 This is a typical username and password.
-
-
-

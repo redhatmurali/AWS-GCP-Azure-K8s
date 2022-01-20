@@ -9,7 +9,7 @@ By default, users cannot access anything in your account.
 A group is a collection of users. You can also apply a policy to a group.
 
 **Roles**
-
+! 
 A role is something that is assumed by a trusted entity, and you use this for delegation. This is a slightly complex subject
 
 **Policies**
@@ -25,3 +25,5 @@ An access key is composed of two parts: an access key ID and a secret access key
 **Console password**
 
 This is a typical username and password.
+
+![This is an image](Animation.gif)
